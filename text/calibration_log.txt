@@ -1,0 +1,133 @@
+ Getting points from calibration pic was successful 
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
+Size of from_picture = 4
+
+Size of from_frame = 0
+
